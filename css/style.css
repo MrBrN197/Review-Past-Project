@@ -1,0 +1,14 @@
+@media only screen and (max-width: 500px) {
+  section {
+    font-size: 40px;
+  }
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+}
